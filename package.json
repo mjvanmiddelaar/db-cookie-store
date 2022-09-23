@@ -38,7 +38,9 @@
   },
   "dependencies": {
     "tough-cookie" : "~2.0.0",
-    "punycode" : "~1.2.3",
+    "punycode" : "~1.2.3"
+  },
+  "optionalDependencies": {
     "sequelize" : "^6.0.0",
     "sqlite3" : "~3.0.0"
   },
