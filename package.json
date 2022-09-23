@@ -39,7 +39,7 @@
   "dependencies": {
     "tough-cookie" : "~2.0.0",
     "punycode" : "~1.2.3",
-    "sequelize" : "~2.0.0",
+    "sequelize" : "^6.0.0",
     "sqlite3" : "~3.0.0"
   },
   "author": "Dmitry Nizovtsev (https://github.com/JSBizon)",
